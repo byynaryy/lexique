@@ -1,5 +1,58 @@
-Bootsrap
-A framework HTML, CSS et JavaScript utilisé dans la création d'application web et de site réactif(responsive).
+Bootsrap:
+Un framework HTML, CSS et JavaScript utilisé dans la création d'application web et de site réactif(responsive).
 Une creation réactif vise à avoir un affichage qui s'adapte au support.
+
+
+Foundation:
+Un framework utilisé dans la création d'application web, de site et d'email réactif(responsive).  
+
+
+Yeoman:
+Un outil qui permet de creer un structure d'application web de base en utilisant d'autres outils et framework.
+
+
+Emmet:
+Un plugin pour les editeurs de texte qui permet d'accélérer le codage et edition. 
+
+
+Markdown:
+Un langage de balisage léger qui peut être transforme en HTML et en d'autre formats, en utilisant un outil qui porte le même nom.
+
+
+Sass + Compass:
+Sass est un  language informatique qui est compatible avec CSS. il est aussi utilisé dans la présentation d'un document ecrit en langage de balisage.
+Compass est un framework pour écrire le css.Il a besoin de sass.
+
+
+Less:
+Un langage informatique qui est compatible avec CSS.
+
+
+Stylus:
+Un langage informatique qui est compatible avec CSS.
+
+
+Jade:
+Un plateforme de déploiment et de dévélopent de logiciel, orienté objet.
+
+
+Haml:
+Un langage de balisage qui fonction avec des templates.
+
+
+Coffeescript:
+Un langage de programmation, inspiré par Python, Ruby et Haskell. 
+
+
+Mustache:
+Un langage de création de template.
+
+
+Handlebars:
+Une extension de Mustache(Un langage de création de template).
+
+
+Local Web Servers:
+Des ordinateurs ou un logiciel qui traite des requête via HTTP en local.
 
 
